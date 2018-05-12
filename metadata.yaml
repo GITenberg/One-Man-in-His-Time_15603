@@ -1,0 +1,32 @@
+_repo: One-Man-in-His-Time_15603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glasgow, Ellen Anderson Gholson
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '885'
+    url: http://www.gutenberg.org/2009/agents/885
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
+description: In One Man in His Time , Ellen Glasgow portrays Virginia in the aftermath
+  of the Great War. Here is the story of Gideon Vetch, who rises from the lower class
+  to become governor of Virginia, challenging the outdated interests and attitudes
+  of the old Southern aristocracy, a popular theme in Glasgow's acclaimed novels.
+gutenberg_issued: '2005-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- !lcsh 'Richmond (Va.) -- Fiction'
+title: One Man in His Time
+url: http://www.gutenberg.org/ebooks/15603
